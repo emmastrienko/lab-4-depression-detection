@@ -1,0 +1,12 @@
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\bin\Debug\net8.0\Lab4.Shared.deps.json
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\bin\Debug\net8.0\Lab4.Shared.dll
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\bin\Debug\net8.0\Lab4.Shared.pdb
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\Lab4.Shared.csproj.AssemblyReference.cache
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\Lab4.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\Lab4.Shared.AssemblyInfoInputs.cache
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\Lab4.Shared.AssemblyInfo.cs
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\Lab4.Shared.csproj.CoreCompileInputs.cache
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\Lab4.Shared.dll
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\refint\Lab4.Shared.dll
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\Lab4.Shared.pdb
+D:\Code\uni\c#\lab_4_Onnx\Lab4.Shared\obj\Debug\net8.0\ref\Lab4.Shared.dll
